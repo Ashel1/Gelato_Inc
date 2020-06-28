@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gelato Inc</string>
+    <string name="item">Item Name:</string>
+    <string name="price">Price: ₹ </string>
+    <string name="check">Check Details</string>
+    <string name="cart">Add to Cart</string>
+    <string name="ing">Ingredients: </string>
+    <string name="total">Total Amount:</string>
+    <string name="clear">Clear All</string>
+    <string name="po">Place Order</string>
+    <string name="quantity">Quantity: </string>
+</resources>

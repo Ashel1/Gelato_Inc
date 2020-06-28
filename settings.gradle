@@ -1,0 +1,2 @@
+rootProject.name='Gelato Inc'
+include ':app'

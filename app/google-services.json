@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "129835794252",
+    "firebase_url": "https://gelato-477f6.firebaseio.com",
+    "project_id": "gelato-477f6",
+    "storage_bucket": "gelato-477f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129835794252:android:8a98e31e8ab58e4008d9e9",
+        "android_client_info": {
+          "package_name": "com.example.gelato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129835794252-efhb29j0ft5aq5mjg9atvijf5sntjble.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gelato",
+            "certificate_hash": "0adc906fed81be42bafa0f3e7531653fc6b72789"
+          }
+        },
+        {
+          "client_id": "129835794252-v15687lveqva7q7eiv4s3ld9vgafv4kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgiOvz5VRZhCWkWvoTvzV6Bbng4A6nXkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129835794252-v15687lveqva7q7eiv4s3ld9vgafv4kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129835794252:android:3a6365dab90b81c708d9e9",
+        "android_client_info": {
+          "package_name": "com.example.gelatoic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129835794252-4dbhihn02v0iedl4pjrp8oejvi5gk7or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gelatoic",
+            "certificate_hash": "0adc906fed81be42bafa0f3e7531653fc6b72789"
+          }
+        },
+        {
+          "client_id": "129835794252-v15687lveqva7q7eiv4s3ld9vgafv4kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgiOvz5VRZhCWkWvoTvzV6Bbng4A6nXkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129835794252-v15687lveqva7q7eiv4s3ld9vgafv4kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129835794252:android:85f7373ebaaf22d508d9e9",
+        "android_client_info": {
+          "package_name": "com.example.gelatoinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129835794252-lvojphd1nbsrjc0m98ta5gic361apbga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gelatoinc",
+            "certificate_hash": "0adc906fed81be42bafa0f3e7531653fc6b72789"
+          }
+        },
+        {
+          "client_id": "129835794252-v15687lveqva7q7eiv4s3ld9vgafv4kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgiOvz5VRZhCWkWvoTvzV6Bbng4A6nXkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129835794252-v15687lveqva7q7eiv4s3ld9vgafv4kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
